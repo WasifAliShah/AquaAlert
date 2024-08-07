@@ -62,7 +62,18 @@ To change the start time for the reminders, modify the `start_time` variable:
 ```python
 start_time = datetime.datetime.now().replace(hour=9, minute=0, second=0, microsecond=0)
 ```
+### Change Notification Message
 
+To change the notification message, modify the `create_notification` function:
+
+```python
+toast = Notification(app_id="Water Assistant",
+                     title="Time to drink Water",
+                     msg="3 hours have passed since your last water break.",
+                     duration="short",
+                     icon="C:\\Python_harry_tut\\images.jpg")
+
+```
 
 
 
