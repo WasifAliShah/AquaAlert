@@ -52,15 +52,15 @@ WaterReminder is a Python script that helps you stay hydrated by reminding you t
 
 To change the intervals between reminders, modify the `interval_hours` parameter in the `create_triggers` function in the script:
 
-'''python
-create_triggers(task_def, start_time, interval_hours=3, trigger_count=7)'''
+``python
+create_triggers(task_def, start_time, interval_hours=3, trigger_count=7)``
 
 ### Change Start Time
 
 To change the start time for the reminders, modify the `start_time` variable:
 
-'''python
-start_time = datetime.datetime.now().replace(hour=9, minute=0, second=0, microsecond=0)'''
+``python
+start_time = datetime.datetime.now().replace(hour=9, minute=0, second=0, microsecond=0)``
 
 
 
