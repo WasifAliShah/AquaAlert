@@ -84,8 +84,9 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-If you have any questions or suggestions, please open an issue or contact [your email].
+If you have any questions or suggestions, please open an issue or contact [shahwasif2003@gmail.com].
 
+##
 Happy Hydrating!
 
 
