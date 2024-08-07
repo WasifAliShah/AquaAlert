@@ -74,7 +74,19 @@ toast = Notification(app_id="Water Assistant",
                      icon="C:\\Python_harry_tut\\images.jpg")
 
 ```
+### Contributing
 
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+### License
+
+This project is licensed under the MIT License.
+
+### Contact
+
+If you have any questions or suggestions, please open an issue or contact [your email].
+
+Happy Hydrating!
 
 
 
